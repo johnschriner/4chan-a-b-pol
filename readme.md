@@ -1,2 +1,2 @@
-Here are just a few file from the 4chan/a/b/pol corpora.<br />
-The scraping of /b/ from 2015 is too big to upload currently.
+Here are the corpora from 4chan/a/b/pol in both the 2015 and 2019 scrapings.<br />
+
